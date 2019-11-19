@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418486739455",
+    "firebase_url": "https://hw9android-b0b6e.firebaseio.com",
+    "project_id": "hw9android-b0b6e",
+    "storage_bucket": "hw9android-b0b6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418486739455:android:1c5c1b57b31ab1318c87ca",
+        "android_client_info": {
+          "package_name": "edu.gvsu.cis.convcalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418486739455-n48925qm3hbqcujkkmufq82iq2nu6jvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.gvsu.cis.convcalc",
+            "certificate_hash": "20dc94522ac0bc6a978d694bbdb6c46a8ea5710e"
+          }
+        },
+        {
+          "client_id": "418486739455-gj1r0j8o6feb7590459afavnec6jmkfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgAqj_W9zhvyuL4POzTM7tDqnro4V_mjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418486739455-gj1r0j8o6feb7590459afavnec6jmkfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
